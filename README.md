@@ -1,138 +1,154 @@
-<h1 align="center">Hi There! I'm Mirudhula D 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer;Flask+%7C+MongoDB+Developer;AI+%26+IoT+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,100:4FC3F7&height=220&section=header&text=Hi%20There!%20I'm%20Mirudhula%20D%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<hr>
+<br>
 
-<h2>👩‍💻 About Me</h2>
-
-<p>
-I'm an aspiring Software Engineer with a strong foundation in programming and problem-solving.
-Passionate about developing efficient and scalable software solutions while continuously learning new technologies.
-</p>
-
-<ul>
-  <li>🎓 B.E. Electronics and Communication Engineering Student</li>
-  <li>💻 Passionate about Software Development, AI, and IoT</li>
-  <li>🐍 Strong foundation in Python, Java, Flask, and SQL</li>
-  <li>🚀 Building real-world software and intelligent systems</li>
-  <li>🏆 Runner-Up – Hexaware Mavericks Hackathon 2025</li>
-  <li>📚 Continuously learning and exploring emerging technologies</li>
-</ul>
-
-<hr>
-
-<h2>🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,mongodb,html,css,javascript,git,github,vscode" />
-</p>
-
-<hr>
-
-<h2>🚀 Projects Worth Noting</h2>
-
-<h3>🏥 AI-Enabled Electronic Health Record Framework</h3>
-
-<p>
-An IoT-based healthcare monitoring platform that integrates Electronic Health Records (EHR),
-real-time patient monitoring, and AI-powered prescription safety verification.
-</p>
-
-<b>Technologies:</b>
-Python Flask, MongoDB, Decision Tree AI Model, ESP32, Embedded C, MAX30102, DS18B20
-
-<br><br>
-
-<h3>💼 Pool Consultant Management System</h3>
-
-<p>
-A web-based consultant management platform featuring authentication,
-resume management, attendance tracking, training management,
-opportunity tracking, and reporting dashboards.
-</p>
-
-<b>Technologies:</b>
-Flask, MongoDB, Python, Gemini API
-
-<br><br>
-
-<h3>📏 Object Distance Measurement Using ESP32</h3>
-
-<p>
-Implemented a real-time object distance measurement system using ESP32
-and HC-SR04 ultrasonic sensor for accurate distance monitoring.
-</p>
-
-<b>Technologies:</b>
-ESP32, Embedded C, HC-SR04 Ultrasonic Sensor
-
-<hr>
-
-<h2>🎓 Certifications & Training</h2>
-
-<ul>
-  <li>🏅 Digital System Design – NPTEL (Elite)</li>
-  <li>🏅 System Design Through Verilog – NPTEL (Silver + Elite)</li>
-  <li>🏅 Leadership and Team Effectiveness – NPTEL (Elite)</li>
-  <li>🏅 VLSI for Beginners – NIELIT, Calicut</li>
-  <li>🏅 VLSI Training – TAARAS Institute</li>
-</ul>
-
-<hr>
-
-<h2>💼 Internship Experience</h2>
-
-<h3>🏭 Wheels India Limited – R&D Intern</h3>
-
-<ul>
-  <li>Worked with Strain Gauge Sensors for stress and pressure measurement.</li>
-  <li>Studied Wheatstone Bridge Circuits used in precision measurements.</li>
-  <li>Learned Industrial Engineering Standards and R&D practices.</li>
-</ul>
-
-<hr>
-
-<h2>🏆 Achievements</h2>
-
-<ul>
-  <li>🥈 Runner-Up – Hexaware Mavericks Hackathon 2025</li>
-  <li>🏸 Anna University Women's Badminton Zonals – Participant</li>
-  <li>🏅 Kabaddi District Level Semifinalist</li>
-  <li>🎯 Organized Symposium and Department Events</li>
-</ul>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<hr>
-
-<h2>📫 Contact Me</h2>
-
-<p>
-📧 Email: <b>mirudhu31@gmail.com</b>
-</p>
-
-<p>
-💼 LinkedIn:
-<a href="https://www.linkedin.com/in/mirudhula-dhanasingh-329486249">
-linkedin.com/in/mirudhula-dhanasingh-329486249
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social">
 </a>
-</p>
 
-<hr>
+<a href="https://www.linkedin.com/in/mirudhula-dhanasingh-329486249">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge">
+</a>
+
+<a href="mailto:mirudhu31@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+I'm **Mirudhula D**, an aspiring **Software Engineer** with a strong foundation in programming and problem-solving.
+
+I enjoy building software solutions that combine **Artificial Intelligence**, **IoT**, and **Web Technologies** to solve real-world challenges.
+
+- 🎯 Passionate about Software Development
+- 🤖 Exploring Artificial Intelligence & IoT
+- 🌐 Building Full Stack Applications
+- 📚 Continuously learning new technologies
+- 🚀 Interested in scalable and efficient software systems
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  ✨ <b>"Building innovative solutions through Software, Artificial Intelligence, and IoT."</b>
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
+
+---
+
+# 🚀 Projects Worth Noting
+
+## 🏥 AI-Enabled Electronic Health Record Framework
+
+Built an IoT-based healthcare monitoring platform that integrates:
+
+- Real-Time Patient Monitoring
+- Electronic Health Records (EHR)
+- AI-Based Prescription Safety
+- ESP32 Sensor Integration
+- Role-Based Access Control
+
+**Tech:** Python, Flask, MongoDB, ESP32, Decision Tree, MAX30102, DS18B20
+
+---
+
+## 💼 Pool Consultant Management System
+
+Developed a web-based consultant management platform featuring:
+
+- Authentication System
+- Resume Management
+- Attendance Tracking
+- Training Management
+- Opportunity Tracking
+- Reporting Dashboard
+
+**Tech:** Flask, MongoDB, Python, Gemini API
+
+---
+
+## 📏 Object Distance Measurement Using ESP32
+
+Implemented a real-time object distance measurement system using ESP32 and an HC-SR04 ultrasonic sensor.
+
+**Tech:** ESP32, Embedded C, HC-SR04
+
+---
+
+# 🎓 Certifications & Training
+
+- 🏅 Digital System Design – NPTEL (Elite)
+- 🏅 System Design Through Verilog – NPTEL (Silver + Elite)
+- 🏅 Leadership and Team Effectiveness – NPTEL (Elite)
+- 🏅 VLSI for Beginners – NIELIT
+- 🏅 VLSI Training – TAARAS Institute
+
+---
+
+# 💼 Internship Experience
+
+## Wheels India Limited – R&D Intern
+
+- Worked with Strain Gauge Sensors
+- Studied Wheatstone Bridge Circuits
+- Learned Industrial Engineering Standards
+- Gained practical exposure to R&D workflows
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Runner-Up – Hexaware Mavericks Hackathon 2025
+- 🏸 Anna University Women's Badminton Zonals – Participant
+- 🏅 Kabaddi District Level Semifinalist
+- 🎯 Organized Symposium and Department Events
+
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:mirudhu31@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/mirudhula-dhanasingh-329486249">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 💭 Final Note
+
+> *"Building software solutions that combine innovation, intelligence, and real-world impact."*
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+</div>
